@@ -1,4 +1,4 @@
-# Terraform Ibmcloud Influxdb
+# Terraform IBM Cloud InfluxDB
 
 This is terraform files for setting up influxdb on the ibmcloud vpc gen 2 virtual infrastructure.
 
